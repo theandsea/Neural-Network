@@ -1,5 +1,9 @@
 # CSE257_project
+
 MNIST recognition by both neural network LeNet-5 and support vector machine with sequential minimal optimization
+
+Github link:
+https://github.com/theandsea/CSE257_project
 
 Only neural network to recognize MNIST is necessary but not sufficient and another project to recognize MNIST is need.
 I choose support vector machine to do it.
