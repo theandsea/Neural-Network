@@ -7,3 +7,4 @@ I establish the neural network according this paper Gradient-Based Learning Appl
 I do the support vector machine to recognize MNIST by SMO and compare each pair of 2 groups of picture corresponding to 2 numbers and get a judge rule for each pair. In the general application situation, an unknown number was compared between different pair and when it is more likely to be one side, that side will get 1 score. In the end, the number that get the largest score will be considered as the recognize number.
 The SVM will take a much longer time. In the program, I just set the scale of training data to be small and get an accuracy of 85%. You can change to a much bigger scale of training data if you want.
 
+to use the MNIST data, we need to unzip 4 files in MNIST.rar to the root directory first before running the program.
