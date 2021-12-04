@@ -8,3 +8,5 @@ I do the support vector machine to recognize MNIST by SMO and compare each pair 
 The SVM will take a much longer time. In the program, I just set the scale of training data to be small and get an accuracy of 85%. You can change to a much bigger scale of training data if you want.
 
 to use the MNIST data, we need to unzip 4 files in MNIST.rar to the root directory first before running the program.
+run SVM_SMO.java to run SVM algorithm to train and recognize MNIST data
+run neuralnetwork.java to run LeNet-5 architecture to train and recognize MNIST data
